@@ -1,5 +1,3 @@
-# Galytix_WebApi
- 
 # Galytix Web API Project
 
 This project is a self-hosted web API server developed in C# using .NET Core and Kestrel. It serves as a platform for processing data from the 'gwpByCountry.csv' file located in the 'Data' folder. The primary purpose is to calculate and provide average Gross Written Premium (GWP) values for specific countries and lines of business.
